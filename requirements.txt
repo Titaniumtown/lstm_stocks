@@ -1,0 +1,10 @@
+yfinance
+silence_tensorflow
+pytz
+scipy
+tensorflow
+numpy
+matplotlib
+pandas
+sklearn
+pytz
